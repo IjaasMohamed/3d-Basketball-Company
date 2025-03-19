@@ -1,4 +1,4 @@
-# Basketball Website - [Company Name]
+# Basketball Website 
 
 Welcome to the **Basketball Website**, an engaging and interactive platform created. This website showcases a dynamic experience, integrating 3D animations and real-time updates for basketball enthusiasts. Whether you're a player, fan, or coach, this site is your go-to hub for all things basketball!
 
