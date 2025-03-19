@@ -61,13 +61,15 @@ Feel free to fork this repository and submit pull requests with improvements, bu
 3. Make your changes
 4. Open a pull request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For questions or additional information, you can reach out to us at: [Insert company email or contact info here].
+For questions or additional information, you can reach out.
 
 ## Acknowledgements
 - **Three.js**: For enabling 3D animations and visualizations.
 - **React**: For building the interactive UI components.
 - **Tailwind CSS**: For fast and flexible styling.
+
+![Image](https://github.com/user-attachments/assets/17eb7657-39a1-48dc-8c93-f9b71a57e23c)
+![Image](https://github.com/user-attachments/assets/647ac241-bb3e-45b1-94b7-67207d8e6a71)
+![Image](https://github.com/user-attachments/assets/0369c227-210e-4dd5-9f80-4e8245c83872)
+![Image](https://github.com/user-attachments/assets/9433b633-70ce-49b0-a0d1-23a669e81372)
